@@ -20,6 +20,10 @@ public:
 	int getMileage();
 	char getStatus();
 	void setStatus(char);
+	void setBusId(string);
+	void setManufacturer(string);
+	void setcapacity(int);
+	void setmileage(int);
 };
 
 

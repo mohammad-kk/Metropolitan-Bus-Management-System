@@ -1,4 +1,4 @@
-#include "bus.h"
+#include "Bus.h"
 #include <fstream>
 #include <iomanip>
 #ifndef FUNCTIONS_HPP_

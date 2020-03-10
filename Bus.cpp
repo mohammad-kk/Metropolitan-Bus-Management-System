@@ -28,4 +28,15 @@ string Bus::getmanufacturer(){
 int	Bus::getCapacity(){
 	return capacity;
 }
-
+void Bus::setBusId(string x){
+	busID = x;
+}
+void Bus::setManufacturer(string x){
+	manufacturer = x;
+}
+void Bus::setcapacity(int x){
+	capacity = x;
+}
+void Bus::setmileage(int x){
+	mileage = x;
+}
